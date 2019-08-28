@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+}
+
+.green {
+	background-color: #008D24;
+	height: 50%;
+	width: 100%
+}
+
+.light_blue {
+	background-color: #0B69C0;
+}
+
+.purple {
+	background-color: #3A246D;
+}
+
+.red {
+	background-color: #CA1B22;
+}
+
+.orange {
+	background-color: #EA6626;
+	height: 100%;
+	width: 100%;
+}
+
+.greenmainblock {
+	display: flex;
+	flex-direction: row;
+	height: 50%;
+	width: 100%;
+}
+.box {
+	height: 100%;
+	width: 50%;
+}
+
+
+/*
+.row {
+	height: 50%;
+	width: 100%;
+}
+*/
